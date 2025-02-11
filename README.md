@@ -1,4 +1,4 @@
 # about-me
 this is my first repo
 </br>
-author : nivash kumar singh
+author : nivash kumar singh(singhkn)
