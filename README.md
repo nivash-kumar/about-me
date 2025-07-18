@@ -1,6 +1,6 @@
 # About Me - Mini Project
 
-This is a mini HTML5 project titled **"About Me"** created by **Nivash (KN Singh)** as part of a college assignment for learning basic HTML and web development.
+This is a mini HTML project titled **"About Me"** created by **Nivash (KN Singh)** as part of a college assignment for learning basic HTML and web development.
 
 ## 📄 Project Overview
 This project is a personal webpage showcasing:
