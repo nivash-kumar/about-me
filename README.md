@@ -1,4 +1,4 @@
-# About Me - Mini Project
+Hi # About Me - Mini Project
 
 This is a mini HTML project titled **"About Me"** created by **Nivash kumar (KN Singh)** as part of an assignment for learning basic HTML and web development.
 
@@ -25,10 +25,10 @@ about-me/
 - **Clean and Responsive Layout**
 
 ## ✅ Submitted By
-**Name**: Nivash kumar
-**I'd**: 1401/INFI25/065
-**gmail**: tfnnivash@gmail.com
-**University**: Patliputra University, Patna
+- **Name**: Nivash kumar
+- **I'd**: 1401/INFI25/065
+- **gmail**: tfnnivash@gmail.com
+- **University**: Patliputra University, Patna
 
 ---
 Thank you for reviewing my project! 😊
